@@ -1,3 +1,10 @@
+
+
+## Data Checks
+- Its just for fun
+
+---
+
 ## Connection Config
 
 - **DB_DIALECT** : Specifies the database dialect . In this context ,it is always “postgres”.
